@@ -1,0 +1,6 @@
+replicate	light	medium (Arg6, Lys4)	heavy (Arg10, Lys8)
+1	dko_hbss	ulk_dmem	ulk_hbss
+2	ulk_hbss	dko_hbss	ulk_dmem
+3	ulk_dmem	ulk_hbss	dko_hbss
+4	dko_hbss	ulk_dmem	ulk_hbss
+5	ulk_hbss	dko_hbss	ulk_dmem
